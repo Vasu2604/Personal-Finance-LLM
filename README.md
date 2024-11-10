@@ -11,7 +11,7 @@ Financial Goal Setting: Set and track progress towards your financial goals with
 
 For Installation:
 
-git clone https://github.com/yourusername/personal-finance-llm.git
+git clone https://github.com/Vasu2604/personal-finance-llm.git
 
 cd personal-finance-llm
 
