@@ -10,8 +10,11 @@ Financial Goal Setting: Set and track progress towards your financial goals with
 
 
 For Installation:
+
 git clone https://github.com/yourusername/personal-finance-llm.git
+
 cd personal-finance-llm
+
 pip install -r requirements.txt
 
 Contributing
